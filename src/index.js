@@ -23,7 +23,6 @@ firebase.initializeApp({
 
 const options = {
   position: positions.MIDDLE,
-  timeout: 6000,
   type: types.SUCCESS,
   transition: transitions.FADE
 }
